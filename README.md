@@ -2,6 +2,8 @@
 
 Public Tutorial (from Gary Simon's [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)): Build an exercise interval timer using Ionic4/Angular
 
+Suffix: **I**onic **4** A**ng**ular with a  **v**ersion number of **0** (in case my boys want to start extending this one).
+
 
 Gary Simon has a fantastic learning resource for those interested in learning more about mobile development using the Ionic 4 cross-platform framework. His (1h7m) video here: [Ionic 4 Crash Course for Beginners - Build an App](https://www.youtube.com/watch?v=qTdwUpQRptc) is a really fun way to experience a full build cycle.  
 
