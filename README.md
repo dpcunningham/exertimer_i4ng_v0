@@ -13,7 +13,7 @@ Have to say, I'm impressed by git/GitHub.  But, just like any firearm, you have 
 
 _It's all good clean fun, right?  What could go wrong?_
 
-_Hello?...  Hello?  Are you there?..._
+_Hello?...  Hello?  Come in!  Are you there?..._
 
 ---
 
