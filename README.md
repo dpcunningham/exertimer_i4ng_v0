@@ -15,3 +15,26 @@ _It's all good clean fun, right?  What could go wrong?_
 
 _Hello?...  Hello?  Are you there?..._
 
+---
+
+Here's our process so far:
+
+- [initialize the project & synch remote (GitHub) and local repos](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/1)
+- [resolve security warnings for npm package dependencies](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/3)
+- [simulate mobile device deployment using Ionic Lab viewer/server](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/4)
+- [simulate mobile device deployment using Firefox responsive/mobile view](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/5)
+- [establish the project git-to-GitHub strategy](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/6)
+- [eliminate the default header display](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/7)
+- [change the primary color for the app](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/8)
+- [change the background color to black](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/9)
+- [add (central timer display element): circular progress bar](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/11)
+
+To-Dos Include:
+- [resolve security warning for component: serialize-javascript](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/2)
+- [follow-up: Study additional useful git-to-GitHub process methodlogies](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/10)
+
+
+
+
+
+
