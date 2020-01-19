@@ -34,7 +34,7 @@ Here's our process so far:
 To-Dos Include:
 - [resolve security warning for component: serialize-javascript](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/2)
 - [resolve npm warning: "peer dependencies" for karma-jasmine & jasmine-core?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/12)
-- [follow-up: Survey features & capabilities of ng-circle-progress](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/13)
+- [follow-up: Survey features & capabilities of `ng-circle-progress`](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/13)
 - [follow-up: Study additional useful git-to-GitHub process methodlogies](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/10)
 
 
