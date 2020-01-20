@@ -30,6 +30,7 @@ Here's our process so far:
 - [change the primary color for the app](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/8)
 - [change the background color to black](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/9)
 - [add (central timer display element): circular progress bar](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/11)
+- [add (central timer display element): circular progress bar ](add (central timer display element): circular progress bar )
 
 To-Dos Include:
 - [resolve security warning for component: serialize-javascript](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/2)
