@@ -32,6 +32,7 @@ Here's our process so far:
 - [add (central timer display element): circular progress bar](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/11)
 - [add feature: Total Workout Duration](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/15)
 - [adjust spacing/positions of control elements](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/16) (NB:  We break away from his development path here.)
+- [add "start" & "stop" buttons (using "ion-fab")](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/17) (Note the use of Angular conditional expressions for this implementation.)
 
 
 To-Dos Include:
