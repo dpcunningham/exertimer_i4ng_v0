@@ -9,6 +9,8 @@ Gary Simon has a fantastic learning resource for those interested in learning mo
 
 Again, this is not an systematic or exhaustive approach to the Ionic framework, just a fun "get your hands dirty" exploration, with the added benefit of a cool little demo you can  show to your friends: _"hey, look at my app!"_
 
+![ionic public tutorial app](https://user-images.githubusercontent.com/54290024/72782588-fa81b280-3bd8-11ea-8a1f-e958b94d5c35.png)
+
 We'll also expend some effort devdeloping a practical git-to-GitHub strategy & methodology, because right now, I know diddly-squat about git and GitHub.  I grew up in the "bad old days" of `cvs` (_pray you never have to use it!_) and `svn` (which I _used_ to be "jealous" of, but we weren't using on our project). Hah!
 
 Have to say, I'm impressed by git/GitHub.  But, just like any firearm, you have to understand safety, and have an instinct to keep  the "danger-end of the stick" pointed in the "safe-ish" direction (downrange).  And, it's got a lot of control buttons, so like any (too?) complex weapon system, if you're not careful, you can end up with eternal regret that you pushed the wrong button or twisted the wrong knob.  So I reconl it's worth thinking about, and getting some practice in on it.
