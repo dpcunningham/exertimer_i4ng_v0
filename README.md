@@ -39,6 +39,7 @@ To-Dos Include:
 - [resolve npm warning: "peer dependencies" for karma-jasmine & jasmine-core?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/12)
 - [follow-up: Survey features & capabilities of `ng-circle-progress`](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/13)
 - [follow-up: Study additional useful git-to-GitHub process methodlogies](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/10)
+- [follow-up: Understand Ionic4 "slots" concept(s)](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/18) (NB: Potential missing documentation issue for Ionic.)
 
 
 
