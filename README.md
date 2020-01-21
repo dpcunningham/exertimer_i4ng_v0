@@ -31,7 +31,7 @@ Here's our process so far:
 - [change the background color to black](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/9)
 - [add (central timer display element): circular progress bar](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/11)
 - [add feature: Total Workout Duration](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/15)
-- [adjust spacing/positions of control elements](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/16)
+- [adjust spacing/positions of control elements](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/16) (NB:  We break away from his development path here.)
 
 
 To-Dos Include:
