@@ -31,8 +31,10 @@ Here's our process so far:
 - [change the background color to black](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/9)
 - [add (central timer display element): circular progress bar](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/11)
 - [add feature: Total Workout Duration](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/15)
-- [adjust spacing/positions of control elements](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/16) (NB:  We break away from his development path here.)
-- [add "start" & "stop" buttons (using "ion-fab")](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/17) (Note the use of Angular conditional expressions for this implementation.)
+- [adjust spacing/positions of control elements](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/16)
+    - NB:  We break away (temporarily) from Gary's development path here.
+- [add "start" & "stop" buttons (using "ion-fab")](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/17)
+    - Note the (non-trivial) use of Angular conditional expressions for this implementation.
 
 
 To-Dos Include:
@@ -40,7 +42,8 @@ To-Dos Include:
 - [resolve npm warning: "peer dependencies" for karma-jasmine & jasmine-core?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/12)
 - [follow-up: Survey features & capabilities of `ng-circle-progress`](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/13)
 - [follow-up: Study additional useful git-to-GitHub process methodlogies](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/10)
-- [follow-up: Understand Ionic4 "slots" concept(s)](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/18) (NB: Potential missing documentation issue for Ionic.)
+- [follow-up: Understand Ionic4 "slots" concept(s)](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/18)
+    - NB: Potential missing documentation issue for Ionic.
 
 
 
