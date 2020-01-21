@@ -36,7 +36,7 @@ Here's our process so far:
 - [add "start" & "stop" buttons (using "ion-fab")](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/17)
     - Note the (non-trivial) use of Angular conditional expressions for this implementation.
 - [add "keep-awake" feature to avoid timeouts from inactivity ](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/19)
-- [name the app](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/21)
+- [give the app an installation name](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/21)
 
 
 To-Dos Include:
@@ -46,6 +46,9 @@ To-Dos Include:
 - [follow-up: Study additional useful git-to-GitHub process methodlogies](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/10)
 - [follow-up: Understand Ionic4 "slots" concept(s)](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/18)
     - NB: Potential missing documentation issue for Ionic.
+- [follow-up: customize the app icon(s)?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/22)
+- [resolve: Should ./resources subdir be kept under git version control?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/23)
+
 
 
 
