@@ -48,6 +48,7 @@ To-Dos Include:
     - NB: Potential missing documentation issue for Ionic.
 - [follow-up: customize the app icon(s)?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/22)
 - [resolve: Should ./resources subdir be kept under git version control?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/23)
+- [follow-up: customize the app icon(s) and splash screens?](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/22)
 
 
 
