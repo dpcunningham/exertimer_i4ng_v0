@@ -35,6 +35,8 @@ Here's our process so far:
     - NB:  We break away (temporarily) from Gary's development path here.
 - [add "start" & "stop" buttons (using "ion-fab")](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/17)
     - Note the (non-trivial) use of Angular conditional expressions for this implementation.
+- [add "keep-awake" feature to avoid timeouts from inactivity ](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/19)
+- [name the app](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/21)
 
 
 To-Dos Include:
