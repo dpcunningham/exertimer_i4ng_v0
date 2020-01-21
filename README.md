@@ -34,7 +34,7 @@ Here's our process so far:
 - [adjust spacing/positions of control elements](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/16)
     - NB:  We break away (temporarily) from Gary's development path here.
 - [add "start" & "stop" buttons (using "ion-fab")](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/17)
-    - Note the (non-trivial) use of Angular conditional expressions used to implment this feature.
+    - Note the (non-trivial) use of Angular conditional expressions used to implement this feature.
 - [add "keep-awake" feature to avoid timeouts from inactivity ](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/19)
 - [give the app an installation name](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/21)
 
