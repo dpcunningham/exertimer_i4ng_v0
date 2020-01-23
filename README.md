@@ -41,6 +41,7 @@ Here's our process so far:
 - [give the app an installation name](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/21)
 - [review: Cordova "app files" (mobile device output formats)](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/27)
 - [install and run the app on Android devices](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/25)
+- [install and run the app on iOS devices](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/26)
 
 
 To-Dos Include:
