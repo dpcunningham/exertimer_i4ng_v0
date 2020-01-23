@@ -39,6 +39,7 @@ Here's our process so far:
     - Note the (non-trivial) use of Angular conditional expressions used to implement this feature.
 - [add "keep-awake" feature to avoid timeouts from inactivity ](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/19)
 - [give the app an installation name](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/21)
+- [review: Cordova "app files" (mobile device output formats)](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/27)
 - [install and run the app on Android devices](https://github.com/dpcunningham/exertimer_i4ng_v0/issues/25)
 
 
